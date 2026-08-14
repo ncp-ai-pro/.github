@@ -2,7 +2,7 @@
 
 > **저장한 YouTube 영상에서, 필요한 순간을 다시 찾고 근거와 함께 대화합니다.**
 
-![출근길에 나중에 볼 영상을 저장하는 상황](assets/watch-later-commute-v2.jpg)
+![출근길에 나중에 볼 영상을 저장하는 상황](assets/watch-later-commute-v3.jpg)
 
 ## “이 영상은 나중에 봐야지.” 그 나중은 언제인가요?
 
