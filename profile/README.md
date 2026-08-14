@@ -2,7 +2,7 @@
 
 > **you talk는 저장한 YouTube 영상에서, 필요한 순간을 다시 찾고 근거와 함께 대화하게 합니다.**
 
-![출근길에 유용한 영상을 저장하고 나중에 볼 동영상 목록에 쌓이는 상황](assets/watch-later-commute-v5.jpg)
+![출근길에 유용한 영상을 나중에 볼 동영상과 나와의 채팅에 저장해 두는 상황](assets/watch-later-commute-v6.jpg)
 
 ## 저장한 영상은 많지만, 다시 찾기는 어렵습니다
 
